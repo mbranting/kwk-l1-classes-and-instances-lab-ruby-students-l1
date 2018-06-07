@@ -1,3 +1,3 @@
 # person.rb
 class Person
-  def 
+  attr_accessor
