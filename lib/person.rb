@@ -1,6 +1,6 @@
 # person.rb
 class Person
-  attr_accessor :people
+  attr_accessor :name
   
   def initializer(name)
     
